@@ -6,5 +6,6 @@
  Aceder ao [link](https://drive.google.com/file/d/1JlimzktHiOS6BeLVFvLswzucPLqT5Cik/view?usp=sharing) para fazer o download da app num smartphone Android acima da versão 4.4.
  
  ## Screenshots
-![](https://github.com/JoaoPVilar/Jogo-de-Pista/blob/master/screenshot.png)  
+![](https://github.com/JoaoPVilar/Jogo-de-Pista/blob/master/screenshot.png)
+<br/>
 ![](https://github.com/JoaoPVilar/Jogo-de-Pista/blob/master/screenshot_2.png)
