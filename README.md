@@ -1,6 +1,6 @@
 # Jogo de Pista - App Android
  
- <img src="https://github.com/JoaoPVilar/Jogo-de-Pista/blob/master/screenshot.png" align="left"
+ <img src="https://github.com/JoaoPVilar/Jogo-de-Pista/blob/master/logo.png" align="left"
 width="200" hspace="10" vspace="10">
  
  Aplicação móvel para dispositivos Android com versão acima de 4.4, com o intuito de auxiliar os escuteiros no desenvolvimento do seu progresso pessoal.  
