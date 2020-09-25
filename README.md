@@ -16,4 +16,5 @@ width="80" hspace="10" vspace="10">
 ![](https://github.com/JoaoPVilar/Jogo-de-Pista/blob/master/screenshot_2.png)
 
  ## Sobre
- Implementado utilizando Java
+ Implementado utilizando Java.
+ Autor: João Vilar
