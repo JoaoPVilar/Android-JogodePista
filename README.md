@@ -7,3 +7,4 @@
  
  ## Screenshots
 ![](https://github.com/JoaoPVilar/Jogo-de-Pista/blob/master/screenshot.png)
+![](https://github.com/JoaoPVilar/Jogo-de-Pista/blob/master/screenshot_2.png)
